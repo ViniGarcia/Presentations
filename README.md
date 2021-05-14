@@ -1,4 +1,4 @@
-# Presentations of Articles and Other Relevant Works
+# Presentations of Papers and Other Relevant Works
 
 <b>[Click-on-OSv - A platform for Running Click-based Middleboxes]</b> Marcuzzo, L. d. C.; Fulber-Garcia, V.; Cunha, V.; Corujo, D.; Barraca, J. P.; Aguiar, R. L.; Schaeffer-Filho, A. E.; Granville, L. Z.; Santos, C. R. P. d.. Click-on-OSv: A platform for Running Click-based Middleboxes. International Symposium on Integrated Network Management (IM). 2017.
 <br/><br>
@@ -23,5 +23,7 @@
 <b>[Uma Solução para Mitigação de Ataques DDoS Através de Tecnologia NFV]</b> Fulber-Garcia, V.; Gaiardo, G. d. F.; Marcuzzo, L. d. C.; Tavares,T. N.; Silva, N. C. B.; Rocha, A. M.; Nunes, R. C.; Santos, C. R. P. d.. Uma Solução para Mitigação de Ataques DDoS Através de Tecnologia NFV. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos - Workshop de Segurança Cibernética em Dispositivos Conectados (SBRC - WSCDC). 2018.
 <br/><br>
 <b>[Uma Solução Flexível e Personalizável para a Composição de Cadeias de Função de Serviço]</b> Fulber-Garcia, V.; Luizelli, M. C.; Duarte Jr., E. P.; Santos, C. R. P. d.. Uma Solução Flexível e Personalizável para a Composição de Cadeias de Função de Serviço. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos - Workshop de Gerência e Operação de Redes e Serviços (SBRC - WGRS). 2019.
+<br><br>
+<b>[Além do OpenStack -Disponibilizando o Suporte para Funções Virtualizadas de Rede NFV-MANO no CloudStack]</b> Flauzino, J.; Fulber-Garcia, V.; Venâncio, G.; Duarte Jr., E. P.. Além do OpenStack: Disponibilizando o Suporte para Funções Virtualizadas de Rede NFV-MANO no CloudStack. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos. 2020.
 <br><br>
 <b>[Mapeamento Customizado de Serviços de Rede em Múltiplos Domínios Baseado em Heurísticas Genéticas]</b> Fulber-Garcia, V.; Santos, C. R. P. d.; Spinosa, E. J.; Duarte Jr., E. P.. Mapeamento Customizado de Serviços de Rede em Múltiplos Domínios Baseado em Heurísticas Genéticas. Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos. 2020.
